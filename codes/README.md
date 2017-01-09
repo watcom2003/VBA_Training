@@ -1,9 +1,11 @@
-```diff
--ตัวอย่าง Code สำหรับการอบรม 5 วัน <p>
-+ในวันที่ 9 มกราคม มีหัวข้อที่จะสอนดังนี้ <p>
-+1) Objects ใน VBA excel ดูได้จากเวบ https://www.tutorialspoint.com/vba/vba_excel_objects.htm <br>
-+2) ฝึกการใช้งาน Objects ให้คล่องตัว เริ่มจากการใช้งาน workbooks , worksheets, cells <br>
-+3) ฝึกการกำหนด Properties ง่าย ๆ ใน cell หรือ Range ที่ต้องการ <br>
+ตัวอย่าง Code สำหรับการอบรม 5 วัน 
+ในวันที่ 9 มกราคม มีหัวข้อที่จะสอนดังนี้ 
+
+1) Objects ใน VBA excel ดูได้จากเวบ https://www.tutorialspoint.com/vba/vba_excel_objects.htm 
+
+2) ฝึกการใช้งาน Objects ให้คล่องตัว เริ่มจากการใช้งาน workbooks , worksheets, cells 
+
+3) ฝึกการกำหนด Properties ง่าย ๆ ใน cell หรือ Range ที่ต้องการ 
 
 
-```
+
